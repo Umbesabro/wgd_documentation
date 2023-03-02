@@ -14,3 +14,5 @@ Store: https://github.com/Umbesabro/wgd_store - keeps track of purchase and sale
 Event Log: https://github.com/Umbesabro/wgd_event_log - persists events and sends them to the queue.
 Warehouse: https://github.com/Umbesabro/wgd_warehouse - persists product and their stock levels.
 Analyzer: TODO - responsible for persisting usage data, analyzing the current stock situation, and generating issues if needed.
+
+![diagram](https://github.com/Umbesabro/wgd_documentation/blob/main/wdg_diagram.png)
